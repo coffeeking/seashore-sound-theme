@@ -1,0 +1,7 @@
+[Sound Theme]
+Name=seashore
+Comment="sound theme featuring marine sounds"
+Directories=stereo
+
+[stereo]
+OutputProfile=stereo
